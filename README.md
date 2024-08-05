@@ -1,8 +1,5 @@
  **郑重声明：项目经过本地测试，确保可以运行， 可以用于学习和毕业设计参考~** 
-
-[点我获取源码](https://x-x.fun/e/CU79de7d2eNeJ)💕
-
-[点我查看更多](http://blog.cyrobot.top/blog)🤞
+![gh_17810254f3db_258](https://github.com/user-attachments/assets/4eaaf9bd-fea1-4dca-bb61-10de8665b25e)
 
 #### 1.项目介绍
 - 宿舍管理系统，是前后端分离项目。功能包括：权限管理，菜单管理，项目运行宿舍管理，学生管理，班级管理，宿舍楼管理，各项记录（归寝记录，维修记录，请假记录，晚归记录。
